@@ -1,6 +1,12 @@
 # Ball-and-Cups
 _Computer Graphics Project (CP 411)_
 
+A simple mini-game where a single ball is hidden under one of the cups.
+
+Click the cups to lift them and see how many you can get in a row!
+
+Current Streak and High Score are kept in the application title bar.
+
 ## Video Demo
 
 https://user-images.githubusercontent.com/73850102/226715657-a3d5bc4c-6f15-4e32-849c-310e7f02cb3f.mp4
